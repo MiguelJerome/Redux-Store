@@ -24,7 +24,7 @@ NPM package requires for this project are :
 ## Usage Information
 * This Redux Store is for personal and professional use.
 
-## Contribution Guidelines
+## Contribution Guidelines 
 * This is a final product that is ready to be used.
 * [Redux Store Git Hub](https://github.com/MiguelJerome/Redux-Store)
 * [Redux Store Deployment](https://fierce-lake-71949.herokuapp.com/)
